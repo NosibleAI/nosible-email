@@ -9,7 +9,7 @@ Internal asset hosting for Nosible email signatures. Nothing here is useful to y
 - Fork this expecting maintenance
 - Email us about this repo
 
-This repo is public solely so email clients can fetch images over HTTPS without authentication. That is the entire reason it exists.
+This repo is public solely so email clients can fetch images over HTTPS without authentication. 
 
 ## License
 
